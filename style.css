@@ -1,0 +1,16 @@
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    cursor: pointer;
+     
+}
+
+main {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    margin-top: 50px;
+}
